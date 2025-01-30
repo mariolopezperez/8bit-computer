@@ -1,0 +1,24 @@
+8-bit computers:
+https://github.com/slu4coder/The-Minimal-64-Home-Computer
+https://github.com/slu4coder/Minimal-64x4-Home-Computer
+https://pages.cs.wisc.edu/~kzhao32/projects/ece366lab1-3_8bitProcessor.pdf
+https://www.youtube.com/watch?v=-0gccsR1EEs&t=221s
+https://www.reddit.com/r/electronics/comments/b1yp1z/8bit_cpu_made_from_scratch_using_74hc_logic_chips/
+https://gigatron.io/?page_id=482
+Manual: https://docs.google.com/document/d/1-nDv_8WEG1FrlO3kEK0icoYo-Z-jlhpCMiCstxGOCjQ/edit?tab=t.0
+
+Minimal 64x4 schematics:
+https://github.com/slu4coder/Minimal-64x4-Home-Computer/blob/main/Revision%201.1/Schematics.pdf
+
+Minimal software:
+https://github.com/hans61
+
+Keyboard:
+https://www.instructables.com/Use-a-PS2-Keyboard-in-Microcontroller-projects/
+Bean Eater: https://www.youtube.com/watch?v=7aXbh9VUB3U
+
+VGA
+https://www.reddit.com/r/embedded/comments/1aozult/possibility_to_use_a_vga_monitor_with_a/
+http://debuginnovations.com/TTL_Terminal/assembly.html
+https://hackaday.com/2021/04/30/vga-graphics-card-in-74xx-logic/
+https://www.glensstuff.com/vgavideocards/vgavideocards.htm
